@@ -1,4 +1,4 @@
-Hi Everyone I'm Chet 👋
+Hey I'm Chet 👋
 =============================
 
 Junior Full-Stack Software Engineer
