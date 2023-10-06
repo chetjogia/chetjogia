@@ -4,7 +4,7 @@ Hey I'm Chet 👋
 Junior Full-Stack Software Engineer
 -----------------------------------
 
-Changing careers has allowed me to build on my passions for Music and Mathematics, blending the strong technical and creative skills I've learnt, to build robust and ecient solutions to complex problems. Experiencing the thrill of working within fast-paced, agile tech teams, by enrolling in the School of Code Bootcamp and collaborating with my peers, has only heightened my enjoyment and understanding of technology and I relish the opportunity to continue this journey in my next role.
+Changing careers to become a Junior Full-Stack Software Engineer has allowed me to build on my passions for Music and Mathematics, blending the strong technical and creative skills I've learnt, to build robust and efficient solutions to complex problems. My first role as a Software Engineer within a fast-paced, agile team has provided me with an excellent foundation to build upon and has only heightened my enjoyment and understanding of technology.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [chetjogia@gmail.com](mailto:chetjogia@gmail.com)
