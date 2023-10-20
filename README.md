@@ -10,7 +10,8 @@ Changing careers to become a Junior Full-Stack Software Engineer has allowed me 
 * ✉️  You can contact me at [chetjogia@gmail.com](mailto:chetjogia@gmail.com)
 
 ### I'm Currently Working On:
-- 📜  A 16 week intensive bootcamp at the School Of Code
+- 🏢  Junior Software Engineer at OAG
+- 📜  Graduated from a 16 week intensive bootcamp at the School Of Code
 - 🖥️  My [Portfolio](http://portfolio-site-ob6h.vercel.app/)
 - 👶  A small web application called Baby Monitor, designed to assist new parents in tracking a babies feeding, sleeping habits etc.
 - 🌱  Learning Python and C++ independently.
