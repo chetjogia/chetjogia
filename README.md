@@ -1,16 +1,16 @@
 Hey I'm Chet 👋
 =============================
 
-Junior Full-Stack Software Engineer
+Software Engineer
 -----------------------------------
 
-Changing careers to become a Junior Full-Stack Software Engineer has allowed me to build on my passions for Music and Mathematics, blending the strong technical and creative skills I've learnt, to build robust and efficient solutions to complex problems. My first role as a Software Engineer within a fast-paced, agile team has provided me with an excellent foundation to build upon and has only heightened my enjoyment and understanding of technology.
+Changing careers to become a Software Engineer has allowed me to build on my passions for Music and Mathematics, blending the strong technical and creative skills I've learnt, to build robust and efficient solutions to complex problems. My first role as a Software Engineer within a fast-paced, agile team has provided me with an excellent foundation to build upon and has only heightened my enjoyment and understanding of technology.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [chetjogia@gmail.com](mailto:chetjogia@gmail.com)
 
 ### I'm Currently Working On:
-- 🏢  Junior Software Engineer at OAG
+- 🏢  Software Engineer at OAG
 - 📜  Graduated from a 16 week intensive bootcamp at the School Of Code
 - 🖥️  My [Portfolio](http://portfolio-site-ob6h.vercel.app/)
 - 👶  A small web application called Baby Monitor, designed to assist new parents in tracking a babies feeding, sleeping habits etc.
